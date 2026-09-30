@@ -95,6 +95,6 @@ snake-main/
 
 Submission is only the following three things:
 
-- [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
-- [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [] The Chat/LLM used page link, with the complete chat history
+- [x] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior (`gameplay_before.mp4`)
+- [x] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working (`gameplay_after.mp4`)
+- [x] The Chat/LLM used page link, with the complete chat history (Antigravity pair-programming session)
